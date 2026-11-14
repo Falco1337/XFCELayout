@@ -38,7 +38,7 @@ A Windows 11-inspired Snap Layout Manager for Kali Linux XFCE, built with Python
 
 Clone the repository and run the installer:
 
-    git clone https://github.com/YOUR_USERNAME/xfce-kali-linux-snap.git
+    git clone https://github.com/Falco1337/XFCELayout.git
     cd xfce-kali-linux-snap
     chmod +x install.sh
     ./install.sh
